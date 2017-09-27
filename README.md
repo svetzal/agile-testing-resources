@@ -14,7 +14,7 @@ I have included 3 recent links (two video presentations and one audio interview)
 
 ## Books
 
-The following highly regarded books have been instrumental in informing my understanding of agile testing practices.
+Over the years, as I've built and coached teams and delivered projects to small and large enterprises, the following highly regarded books have been instrumental in informing my understanding of agile testing practices. The field of materials is rich, but these are my favourites. Some may not seem directly relevant to testing at first, but the testing themes contained therein are crucial to understanding how I believe testing should work in the agile enterprise.
 
 ### Textbook Form
 
