@@ -1,6 +1,6 @@
 # Resources
 
-As promised, here are a series of resources that elaborate upon and distill the ideas Stacey touched upon during the Agile Testing course.
+These are resources that elaborate upon and distill the ideas Stacey touches upon when teaching testers entering or transitioning to an agile workplace.
 
 ## Media (Video / Audio)
 
